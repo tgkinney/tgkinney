@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tgkinney
+- 👀 I’m interested in automated test and AI automated test tools
+- 🌱 I’m currently learning microservices and API compliance and AI automated test feasibility
+- 💞️ I’m looking to collaborate on AI automated test of UI and API and unit test
+- 📫 How to reach me tgkinney@gmail.com
